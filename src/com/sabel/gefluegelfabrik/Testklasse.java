@@ -25,7 +25,6 @@ public class Testklasse {
         }
 
         // gefluegel = new Vogel(); Da Testklasse nicht im gleichen Paket wie der Vogel, keine Objekterzeugeung möglich
-
     }
 
 
